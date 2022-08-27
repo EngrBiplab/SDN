@@ -1,0 +1,7 @@
+Full Screen:
+sudo apt install build-essential dkms linux-headers-$(uname -r)
+
+sudo apt install linux-headers-$(uname -r) build-essential dkms
+./autorun.sh
+
+google-chrome-stable_current_amd64.7DmIQJQs.deb
